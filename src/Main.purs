@@ -5,6 +5,7 @@ import Effect           (Effect)
 import Effect.Console   (log, logShow)
 import Goat.Parser    as Parser
 import Goat.Validator as Validator
+import Goat.Decoder   as Decoder
 
 main :: Effect Unit
 main = do

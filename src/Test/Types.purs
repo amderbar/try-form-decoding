@@ -3,7 +3,7 @@ module Test.Types where
 import Prelude
 import Data.Generic.Rep       (class Generic)
 import Data.Generic.Rep.Show  (genericShow)
-import Data.Maybe             (Maybe(..))
+import Data.Maybe             (Maybe)
 
 type Goat =
   { name :: Name
