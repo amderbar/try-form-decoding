@@ -13,7 +13,8 @@
     "purescript-simple-parser": "^8.0.0",
     "purescript-generics-rep": "^6.1.1",
     "purescript-validation": "^4.2.0",
-    "purescript-transformerless": "^4.1.0"
+    "purescript-transformerless": "^4.1.0",
+    "purescript-form-decoder": "^0.0.2"
   },
   "devDependencies": {
     "purescript-psci-support": "^4.0.0"
